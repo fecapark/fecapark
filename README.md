@@ -8,9 +8,9 @@
 
 ### 2024
 
-- 2024.05.18 - 📕 **number-rolling** &nbsp; [Repo](https://github.com/fecapark-stack/react) &nbsp; [Demo](https://number-rolling-web.vercel.app/)
+- 2024.05.18 - 📕 **number-rolling** &nbsp; [Repo](https://github.com/fecapark/number-rolling) &nbsp; [Demo](https://number-rolling-web.vercel.app/)
 - 2024.04.29 - 📕 **@fecapark-stack/react** &nbsp; [Repo](https://github.com/fecapark-stack/react)
-- 2024.03.18 - 👆 **Wave Image** &nbsp; [Repo](https://github.com/fecapark/metaball-interaction)
+- 2024.03.18 - 👆 **Wave Image** &nbsp; [Repo](https://github.com/fecapark/wave-image)
 - 2024.03.11 - 🌟 **pati.gg** &nbsp; [Website](https://pati.gg/)
 - 2024.02.08 - 🌟 **Mapleland Auction** (1.2M+ views/mo) &nbsp; [Website](https://www.mlauction.net/)
 
