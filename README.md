@@ -1,4 +1,4 @@
-![image](https://github.com/fecapark/fecapark/assets/101973955/dc757fb1-60be-45c5-8000-d6bba64bea1d)# Self
+# Self
 
 ## HANDIMADES
 
