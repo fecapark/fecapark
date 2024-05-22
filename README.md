@@ -31,7 +31,7 @@
 
 ### 2020
 
-- 2020.06.20 - **Avoid Blobs!** &nbsp; [Repo](https://github.com/pshtony1/avoid-blobs) &nbsp;
+- 2020.06.20 - **Avoid Blobs!** &nbsp; [Repo](https://github.com/pshtony1/avoid-blobs) &nbsp; [Remaster](https://github.com/pshtony1/test-game)
 
 
 <br />
