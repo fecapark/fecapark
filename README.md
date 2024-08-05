@@ -39,7 +39,7 @@
 
 ## EXPERIENCE
 
-- 2024.08.12 ~ Present - @danngn Frontend Intern
+- 2024.08.12 ~ Present - [@danngn](https://github.com/daangn) Frontend Intern
 - 2024.04.04 ~ Present - [Yourssu](https://github.com/yourssu) Frontend (Member)
 - 2023.10.09 ~ Present - [Google Developer Students Clubs](https://sites.google.com/view/gdeveloperskorea/gdsc) [Soongsil](https://gdscsoongsil.pages.dev/) 23-24 Frontend (Member)
 - 2021.12.06 ~ 2023.09.05 - ROKAF computerization equipment maintenance (대한민국 공군 전산장비정비병)
