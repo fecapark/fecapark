@@ -6,7 +6,13 @@
 
 🌟: Featured service <br />
 👆: Interactive project <br />
+💡: Lab <br />
 📕: Open source library
+
+
+### 2025
+
+- 2025.07.07 - 💡 **Camillemormal Landing Clone** &nbsp; [Repo](https://github.com/fecapark/camillemormal-landing-clone) [Demo](https://fecapark.github.io/camillemormal-landing-clone/)
 
 ### 2024
 
