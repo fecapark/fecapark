@@ -1,6 +1,6 @@
 # Self
 
-[Resume](https://fecapark-resume.vercel.app/)
+[Resume](https://resume.fecapark.com/)
 
 ## HANDIMADES
 
