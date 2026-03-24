@@ -46,7 +46,8 @@
 
 ## EXPERIENCE
 
-- 2024.08.12 ~ 2025.02.27 - [당근마켓](https://github.com/daangn) Frontend Intern
+- 2026.03.16 ~ **Present** - 토스플레이스 Frontend Developer Assistant
+- 2024.08.12 ~ 2025.02.27 - [당근마켓](https://github.com/daangn) Frontend Developer Intern
 - 2025.09.21 ~ **Present** - [Yourssu](https://github.com/yourssu) Frontend (Lead)
 - 2024.04.04 ~ 2025.09.21 - [Yourssu](https://github.com/yourssu) Frontend (Member)
 - 2023.10.09 ~ 2025.09 - [Google Developer Students Clubs](https://sites.google.com/view/gdeveloperskorea/gdsc) [Soongsil](https://gdscsoongsil.pages.dev/) 23-25 Frontend (Member)
